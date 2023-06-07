@@ -1,0 +1,22 @@
+{
+  "name": "scraping-web",
+  "version": "1.0.1",
+  "description": "scraping and create API in Futbolred",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev:api": "wrangler dev src/index.js",
+    "publish:api": "wrangler publish src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "hono": "2.7.1"
+  },
+  "devDependencies": {
+    "vitest": "^0.26.3",
+    "wrangler": "^2.6.2"
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "partido": "Qatar Sub 20 - Australia",
+    "liga": "Torneo Maurice Revello",
+    "hora": "7:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Togo - México",
+    "liga": "Torneo Maurice Revello",
+    "hora": "10:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético Paranaense - Libertad",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "Star + / ESPN 4"
+  },
+  {
+    "partido": "Peñarol - Defensa y Justicia",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Star + / ESPN 2"
+  },
+  {
+    "partido": "Estudiantes de Mérida - Fortaleza",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Star + / ESPN 3"
+  },
+  {
+    "partido": "Cortuluá - Patriotas F.C",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Alianza Lima - Atlético Mineiro",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "Star + / ESPN 2"
+  },
+  {
+    "partido": "Melgar - Patronato",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "Star + / Fox Sports 2"
+  },
+  {
+    "partido": "América MG - Millonarios",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Star + / ESPN"
+  },
+  {
+    "partido": "Monagas - Pereira",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "Star + / ESPN 4"
+  },
+  {
+    "partido": "Tigre - Puerto Cabello",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "DSports / DGO"
+  },
+  {
+    "partido": "Santos - Newell`s Old Boys",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "DSports / DGO"
+  },
+  {
+    "partido": "Valledupar - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Bolívar - Cerro Porteño",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "Star + / ESPN 2"
+  },
+  {
+    "partido": "Liga de Quito - Botafogo",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "DSports / DGO"
+  }
+]
